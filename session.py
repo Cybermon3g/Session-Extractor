@@ -1,4 +1,3 @@
-import requests
 from termcolor import colored
 import os, sys
 os.system('color')
